@@ -12,16 +12,12 @@
 	],
 	"require": {
 		"yiisoft/yii2": "*",
-		"sheillendra/yii2-theme": "*"
+		"sheillendra/yii2-theme": "*",
+		"sheillendra/metro-bootstrap": "*"
 	},
 	"autoload": {
 		"psr-4": {
 			"sheillendra\\mbadmin\\": ""
-		}
-	},
-	"extra": {
-		"installer-paths": {
-			"vendor/sheillendra/yii2-theme/themes/yii2-mb-admin-theme": ["sheillendra/yii2-mb-admin-theme"]
 		}
 	}
 }
